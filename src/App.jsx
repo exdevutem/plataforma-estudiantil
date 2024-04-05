@@ -1,7 +1,5 @@
 function App() {
-  return (
-    <div>Plataforma Estudiantil</div>
-  )
+  return <div>Plataforma Estudiantil ExDev</div>;
 }
 
-export default App
+export default App;
